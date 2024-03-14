@@ -1,4 +1,4 @@
-test-repo
+Repo with examples of code
 =========
 
-This is a test repo.
+Contains DS - text and LLM-based approaches.
